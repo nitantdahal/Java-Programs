@@ -7,7 +7,7 @@ public class Varkeyword {
         var x = 5;
         var y = 3.5;
         var name = "Mukti ";
-        var isJavaFun = true;
+        var isJavaFun = false;
         var myChar = 'M';
 
         System.out.println(x);
