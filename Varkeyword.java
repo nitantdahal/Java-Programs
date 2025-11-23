@@ -16,9 +16,9 @@ public class Varkeyword {
         System.out.println(isJavaFun);
         System.out.println(myChar);
 
-        var a; // This will show error in your code 
-        a = 5; 
+       // var a; // This will show error in your code 
+       //a = 5; 
 
-        System.out.println(a);
+        //System.out.println(a);
     }
 }
